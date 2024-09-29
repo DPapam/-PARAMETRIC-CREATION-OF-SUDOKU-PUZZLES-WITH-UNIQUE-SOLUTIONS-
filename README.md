@@ -8,7 +8,7 @@ To run this program you have to:
 - random
 - time
 
--> Step 2:  Make sure to have the pictures folder and the Mirage.wav in the directory of the .py files
+-> Step 2:  Make sure to have the pictures folder and the Mirage.wav(it's in the Mirage.rar file) in the directory of the .py files
 
 -> Step 3:  Run the modified_graphics.py file which has the graphics of the program
 
